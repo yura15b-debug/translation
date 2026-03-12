@@ -1,131 +1,209 @@
 STR-641881
-[%person#1-surname] is disappointed that [%person#1-his] manager is ignoring the risk of [%person#1-him] picking up an injury.[%person#2-hidden]
+[%female#1-surname] розчарована тим, що тренер ігнорує ризик її травмування.[%female#2-hidden][%female#1-hidden]
+[%female#1-surname] розчарована тим, що тренер ігнорує ризик її травмування.[%male#2-hidden][%female#1-hidden]
+[%male#1-surname] розчарований тим, що тренер ігнорує ризик його травмування.[%female#2-hidden][%male#1-hidden]
+[%male#1-surname] розчарований тим, що тренер ігнорує ризик його травмування.[%male#2-hidden][%male#1-hidden]
 
 STR-641882
-[%person#1-surname] wasn't motivated by [%person#2-your] team talk.
+[%female#1-surname] не була мотивована вашою розмовою з командою.[%female#2-hidden][%female#1-hidden]
+[%female#1-surname] не була мотивована вашою розмовою з командою.[%male#2-hidden][%female#1-hidden]
+[%male#1-surname] не був мотивований вашою розмовою з командою.[%female#2-hidden][%male#1-hidden]
+[%male#1-surname] не був мотивований вашою розмовою з командою.[%male#2-hidden][%male#1-hidden]
 
 STR-641883
-[%person#1-surname] feels the team was already giving their all.
+[%female#1-surname] вважає, що команда вже і так викладалася на повну.[%female#1-hidden]
+[%male#1-surname] вважає, що команда вже і так викладалася на повну.[%male#1-hidden]
 
 STR-641884
-[%person#1-surname] has been intimidated by the demanding team talk and appears scared of [%person#2-you].
+[%female#1-surname] була залякана вимогливою розмовою з командою і, здається, боїться вас.[%female#2-hidden][%female#1-hidden]
+[%female#1-surname] була залякана вимогливою розмовою з командою і, здається, боїться вас.[%male#2-hidden][%female#1-hidden]
+[%male#1-surname] був заляканий вимогливою розмовою з командою і, здається, боїться вас.[%female#2-hidden][%male#1-hidden]
+[%male#1-surname] був заляканий вимогливою розмовою з командою і, здається, боїться вас.[%male#2-hidden][%male#1-hidden]
 
 STR-641885
-[%person#1-surname] is enjoying being part of the first team and is happy to encourage the players on the pitch.
+[%female#1-surname] насолоджується перебуванням в основній команді і з радістю підбадьорює гравців на полі.[%female#1-hidden]
+[%male#1-surname] насолоджується перебуванням в основній команді і з радістю підбадьорює гравців на полі.[%male#1-hidden]
 
 STR-641887
-Feels [%person#1-he] should be in the first-team
+Вважає, що вона повинна бути в основній команді.[%female#1-hidden]
+Вважає, що він повинен бути в основній команді.[%male#1-hidden]
 
 STR-641888
-[%person#1] is the only 'Team Leader' within the squad right now. This gives [%person#1-him] a huge influence over the other players.
+[%female#1] наразі є єдиною «Лідеркою команди» у складі. Це дає їй величезний вплив на інших гравців.[%female#1-hidden]
+[%male#1] наразі є єдиним «Лідером команди» у складі. Це дає йому величезний вплив на інших гравців.[%male#1-hidden]
 
 STR-641892
-[%team#1] captain [%person#1] has taken matters into [%person#1-his] own hands and held a raucous players-only meeting, during which the squad argued over the cause of the club's poor form.
+Капітан команди [%team#1] [%female#1] взяла справу у свої руки і провела бурхливу зустріч тільки для гравців, під час якої склад сперечався щодо причин поганої форми клубу.[%female#1-hidden]
+Капітан команди [%team#1] [%male#1] взяв справу у свої руки і провів бурхливу зустріч тільки для гравців, під час якої склад сперечався щодо причин поганої форми клубу.[%male#1-hidden]
 
 STR-641893
-[%team#1] vice-captain [%person#1] has taken matters into [%person#1-his] own hands and held a raucous players-only meeting, during which the squad argued over the cause of the club's poor form.
+Віце-капітан команди [%team#1] [%female#1] взяла справу у свої руки і провела бурхливу зустріч тільки для гравців, під час якої склад сперечався щодо причин поганої форми клубу.[%female#1-hidden]
+Віце-капітан команди [%team#1] [%male#1] взяв справу у свої руки і провів бурхливу зустріч тільки для гравців, під час якої склад сперечався щодо причин поганої форми клубу.[%male#1-hidden]
 
 STR-641894
-[%team#1] [%position#1-lowercase] [%person#1] has taken matters into [%person#1-his] own hands and held a raucous players-only meeting, during which the squad argued over the cause of the club's poor form.
+[%position#1-lowercase] команди [%team#1] [%female#1] взяла справу у свої руки і провела бурхливу зустріч тільки для гравців, під час якої склад сперечався щодо причин поганої форми клубу.[%female#1-hidden]
+[%position#1-lowercase] команди [%team#1] [%male#1] взяв справу у свої руки і провів бурхливу зустріч тільки для гравців, під час якої склад сперечався щодо причин поганої форми клубу.[%male#1-hidden]
 
 STR-641895
-[%team#1] captain [%person#1] has taken matters into [%person#1-his] own hands and held a players-only meeting, during which [%person#1-he] asked [%person#1-his] fellow players to stand united and fight as a team.
+Капітан команди [%team#1] [%female#1] взяла справу у свої руки і провела зустріч тільки для гравців, під час якої вона попросила своїх товаришів по команді бути згуртованими і боротися як одна команда.[%female#1-hidden]
+Капітан команди [%team#1] [%male#1] взяв справу у свої руки і провів зустріч тільки для гравців, під час якої він попросив своїх товаришів по команді бути згуртованими і боротися як одна команда.[%male#1-hidden]
 
 STR-641896
-[%team#1] vice-captain [%person#1] has taken matters into [%person#1-his] own hands and held a players-only meeting, during which [%person#1-he] asked [%person#1-his] fellow players to stand united and fight as a team.
+Віце-капітан команди [%team#1] [%female#1] взяла справу у свої руки і провела зустріч тільки для гравців, під час якої вона попросила своїх товаришів по команді бути згуртованими і боротися як одна команда.[%female#1-hidden]
+Віце-капітан команди [%team#1] [%male#1] взяв справу у свої руки і провів зустріч тільки для гравців, під час якої він попросив своїх товаришів по команді бути згуртованими і боротися як одна команда.[%male#1-hidden]
 
 STR-641897
-[%team#1] [%position#1-lowercase] [%person#1] has taken matters into [%person#1-his] own hands and held a players-only meeting, during which [%person#1-he] asked [%person#1-his] fellow players to stand united and fight as a team.
+[%position#1-lowercase] команди [%team#1] [%female#1] взяла справу у свої руки і провела зустріч тільки для гравців, під час якої вона попросила своїх товаришів по команді бути згуртованими і боротися як одна команда.[%female#1-hidden]
+[%position#1-lowercase] команди [%team#1] [%male#1] взяв справу у свої руки і провів зустріч тільки для гравців, під час якої він попросив своїх товаришів по команді бути згуртованими і боротися як одна команда.[%male#1-hidden]
 
 STR-641898
-[%team#1] captain [%person#1] has taken matters into [%person#1-his] own hands and held a players-only meeting, during which [%person#1-he] asked [%person#1-his] fellow players to stand united and pull together as a team.
+Капітан команди [%team#1] [%female#1] взяла справу у свої руки і провела зустріч тільки для гравців, під час якої вона попросила своїх товаришів по команді бути згуртованими і працювати як одна команда.[%female#1-hidden]
+Капітан команди [%team#1] [%male#1] взяв справу у свої руки і провів зустріч тільки для гравців, під час якої він попросив своїх товаришів по команді бути згуртованими і працювати як одна команда.[%male#1-hidden]
 
 STR-641899
-[%team#1] vice-captain [%person#1] has taken matters into [%person#1-his] own hands and held a players-only meeting, during which [%person#1-he] asked [%person#1-his] fellow players to stand united and pull together as a team.
+Віце-капітан команди [%team#1] [%female#1] взяла справу у свої руки і провела зустріч тільки для гравців, під час якої вона попросила своїх товаришів по команді бути згуртованими і працювати як одна команда.[%female#1-hidden]
+Віце-капітан команди [%team#1] [%male#1] взяв справу у свої руки і провів зустріч тільки для гравців, під час якої він попросив своїх товаришів по команді бути згуртованими і працювати як одна команда.[%male#1-hidden]
 
 STR-641900
-[%team#1] [%position#1-lowercase] [%person#1] has taken matters into [%person#1-his] own hands and held a players-only meeting, during which [%person#1-he] asked [%person#1-his] fellow players to stand united and pull together as a team.
+[%position#1-lowercase] команди [%team#1] [%female#1] взяла справу у свої руки і провела зустріч тільки для гравців, під час якої вона попросила своїх товаришів по команді бути згуртованими і працювати як одна команда.[%female#1-hidden]
+[%position#1-lowercase] команди [%team#1] [%male#1] взяв справу у свої руки і провів зустріч тільки для гравців, під час якої він попросив своїх товаришів по команді бути згуртованими і працювати як одна команда.[%male#1-hidden]
 
 STR-641901
-[%team#1] captain [%person#1] has held a players-only meeting and asked [%person#1-his] team-mates to show some pride, and continue fighting for results during the final matches of the season.
+Капітан команди [%team#1] [%female#1] провела зустріч тільки для гравців і попросила своїх одноклубників проявити гідність та продовжити боротьбу за результати у фінальних матчах сезону.[%female#1-hidden]
+Капітан команди [%team#1] [%male#1] провів зустріч тільки для гравців і попросив своїх одноклубників проявити гідність та продовжити боротьбу за результати у фінальних матчах сезону.[%male#1-hidden]
 
 STR-641902
-[%team#1] vice-captain [%person#1] has held a players-only meeting and asked [%person#1-his] team-mates to show some pride, and continue fighting for results during the final matches of the season.
+Віце-капітан команди [%team#1] [%female#1] провела зустріч тільки для гравців і попросила своїх одноклубників проявити гідність та продовжити боротьбу за результати у фінальних матчах сезону.[%female#1-hidden]
+Віце-капітан команди [%team#1] [%male#1] провів зустріч тільки для гравців і попросив своїх одноклубників проявити гідність та продовжити боротьбу за результати у фінальних матчах сезону.[%male#1-hidden]
 
 STR-641903
-[%team#1] [%position#1-lowercase] [%person#1] has held a players-only meeting and asked [%person#1-his] team-mates to show some pride, and continue fighting for results during the final matches of the season.
+[%position#1-lowercase] команди [%team#1] [%female#1] провела зустріч тільки для гравців і попросила своїх одноклубників проявити гідність та продовжити боротьбу за результати у фінальних матчах сезону.[%female#1-hidden]
+[%position#1-lowercase] команди [%team#1] [%male#1] провів зустріч тільки для гравців і попросив своїх одноклубників проявити гідність та продовжити боротьбу за результати у фінальних матчах сезону.[%male#1-hidden]
 
 STR-641904
-[%team#1] captain [%person#1] has held a players-only meeting in the hope of inspiring [%person#1-his] team-mates to raise their game and avoid relegation.
+Капітан команди [%team#1] [%female#1] провела зустріч тільки для гравців у надії надихнути своїх одноклубників підвищити рівень гри і уникнути вильоту.[%female#1-hidden]
+Капітан команди [%team#1] [%male#1] провів зустріч тільки для гравців у надії надихнути своїх одноклубників підвищити рівень гри і уникнути вильоту.[%male#1-hidden]
 
 STR-641905
-[%team#1] vice-captain [%person#1] has held a players-only meeting in the hope of inspiring [%person#1-his] team-mates to raise their game and avoid relegation.
+Віце-капітан команди [%team#1] [%female#1] провела зустріч тільки для гравців у надії надихнути своїх одноклубників підвищити рівень гри і уникнути вильоту.[%female#1-hidden]
+Віце-капітан команди [%team#1] [%male#1] провів зустріч тільки для гравців у надії надихнути своїх одноклубників підвищити рівень гри і уникнути вильоту.[%male#1-hidden]
 
 STR-641906
-[%team#1] [%position#1-lowercase] [%person#1] has held a players-only meeting in the hope of inspiring [%person#1-his] team-mates to raise their game and avoid relegation.
+[%position#1-lowercase] команди [%team#1] [%female#1] провела зустріч тільки для гравців у надії надихнути своїх одноклубників підвищити рівень гри і уникнути вильоту.[%female#1-hidden]
+[%position#1-lowercase] команди [%team#1] [%male#1] провів зустріч тільки для гравців у надії надихнути своїх одноклубників підвищити рівень гри і уникнути вильоту.[%male#1-hidden]
 
 STR-641907
-Reports indicate [%person#1-surname] is a far better footballer than [%person#1-he] is a public speaker. [%person#1-He] may have given an earnest talk, but it failed to motivate [%person#1-his] team-mates.
+Повідомлення свідчать, що [%female#1-surname] набагато краща футболістка, ніж оратор. Вона, можливо, і провела щиру розмову, але це не мотивувало її одноклубників.[%female#1-hidden]
+Повідомлення свідчать, що [%male#1-surname] набагато кращий футболіст, ніж оратор. Він, можливо, і провів щиру розмову, але це не мотивувало його одноклубників.[%male#1-hidden]
 
 STR-641908
-{upper}[%person#1-surname] tells [%person#1-his] team-mates to make the supporters proud!
+{upper}[%female#1-surname] каже своїм одноклубникам змусити вболівальників пишатися![%female#1-hidden]
+{upper}[%male#1-surname] каже своїм одноклубникам змусити вболівальників пишатися![%male#1-hidden]
 
 STR-641909
-{upper}[%person#1-surname] tells [%person#1-his] team-mates that they can avoid the drop!
+{upper}[%female#1-surname] каже своїм одноклубникам, що вони можуть уникнути вильоту![%female#1-hidden]
+{upper}[%male#1-surname] каже своїм одноклубникам, що вони можуть уникнути вильоту![%male#1-hidden]
 
 STR-641916
-[%person#1] suggests that [%person#2] would benefit from experiencing first-team football at a lower level.\n\n[%person#1-He] suggests sending the player on loan to our affiliate, [%club#1-short].
+[%female#1] вважає, що [%person#2] отримала б користь, спробувавши пограти в футбол в основній команді на нижчому рівні.\n\nВона пропонує відправити гравчиню в оренду до нашого фарм-клубу, команди [%club#1-short].[%female#2-hidden][%female#1-hidden]
+[%female#1] вважає, що [%person#2] отримав би користь, спробувавши пограти в футбол в основній команді на нижчому рівні.\n\nВона пропонує відправити гравця в оренду до нашого фарм-клубу, команди [%club#1-short].[%male#2-hidden][%female#1-hidden]
+[%male#1] вважає, що [%person#2] отримала б користь, спробувавши пограти в футбол в основній команді на нижчому рівні.\n\nВін пропонує відправити гравчиню в оренду до нашого фарм-клубу, команди [%club#1-short].[%female#2-hidden][%male#1-hidden]
+[%male#1] вважає, що [%person#2] отримав би користь, спробувавши пограти в футбол в основній команді на нижчому рівні.\n\nВін пропонує відправити гравця в оренду до нашого фарм-клубу, команди [%club#1-short].[%male#2-hidden][%male#1-hidden]
 
 STR-641917
-[%person#2-Your] assistant manager would like to bring [%person#1]{s} exciting development to attention and suggests letting [%person#1-him] go out on loan to gain experience.
+Ваша асистентка хотіла б звернути увагу на захоплюючий розвиток, який демонструє [%female#1], і пропонує відпустити її в оренду для отримання досвіду.[%female#2-hidden][%female#1-hidden]
+Ваш асистент хотів би звернути увагу на захоплюючий розвиток, який демонструє [%female#1], і пропонує відпустити її в оренду для отримання досвіду.[%male#2-hidden][%female#1-hidden]
+Ваша асистентка хотіла б звернути увагу на захоплюючий розвиток, який демонструє [%male#1], і пропонує відпустити його в оренду для отримання досвіду.[%female#2-hidden][%male#1-hidden]
+Ваш асистент хотів би звернути увагу на захоплюючий розвиток, який демонструє [%male#1], і пропонує відпустити його в оренду для отримання досвіду.[%male#2-hidden][%male#1-hidden]
 
 STR-641936
-[%person#1-surname] has been recalled by [%person#1-his] parent club and is surely hoping to feature in the first team soon.
+[%female#1-surname] була відкликана своїм материнським клубом і напевно сподівається незабаром зіграти в основній команді.[%female#1-hidden]
+[%male#1-surname] був відкликаний своїм материнським клубом і напевно сподівається незабаром зіграти в основній команді.[%male#1-hidden]
 
 STR-641937
-[%person#1-surname] has been recalled by [%person#1-his] parent club.
+[%female#1-surname] була відкликана своїм материнським клубом.[%female#1-hidden]
+[%male#1-surname] був відкликаний своїм материнським клубом.[%male#1-hidden]
 
 STR-641938
-The board are absolutely delighted with the signing but have some concerns that [%person#1-his] unprofessional personality may impact the rest of the squad.
+Керівництво абсолютно в захваті від підписання, але має певні побоювання, що її непрофесійний характер може вплинути на решту складу.[%female#1-hidden]
+Керівництво абсолютно в захваті від підписання, але має певні побоювання, що його непрофесійний характер може вплинути на решту складу.[%male#1-hidden]
 
 STR-641939
-Despite [%person#1-his] undoubted ability, the board are concerned about how much was paid.
+Незважаючи на її безсумнівні здібності, керівництво стурбоване тим, скільки було заплачено.[%female#1-hidden]
+Незважаючи на його безсумнівні здібності, керівництво стурбоване тим, скільки було заплачено.[%male#1-hidden]
 
 STR-641940
-The board are disappointed with the signing. The quality of the player does not reflect [%person#1-his] role within the squad.
+Керівництво розчароване підписанням. Якість гравчині не відображає її роль у складі.[%female#1-hidden]
+Керівництво розчароване підписанням. Якість гравця не відображає його роль у складі.[%male#1-hidden]
 
 STR-641941
-The board are disappointed with the signing. The quality of the player does not reflect [%person#1-his] role within the squad. 
+Керівництво розчароване підписанням. Якість гравчині не відображає її роль у складі.[%female#1-hidden]
+Керівництво розчароване підписанням. Якість гравця не відображає його роль у складі.[%male#1-hidden]
 
 STR-641942
-The board understand that you believe letting [%person#1-surname] go out on loan will help [%person#1-him] improve as a player.
+Керівництво розуміє: ви вважаєте, що дозволивши [%female#1-surname] піти в оренду, це допоможе їй вдосконалитися як гравчині.[%female#1-hidden]
+Керівництво розуміє: ви вважаєте, що дозволивши [%male#1-surname] піти в оренду, це допоможе йому вдосконалитися як гравцеві.[%male#1-hidden]
 
 STR-641943
-The board approve of your releasing [%person#1-surname] from [%person#1-his] contract.
+Керівництво схвалює ваше рішення розірвати контракт з [%female#1-surname].[%female#1-hidden]
+Керівництво схвалює ваше рішення розірвати контракт з [%male#1-surname].[%male#1-hidden]
 
 STR-641944
-The board accept the reasoning behind your releasing [%person#1-surname] from [%person#1-his] contract.
+Керівництво приймає аргументацію щодо вашого рішення розірвати контракт з [%female#1-surname].[%female#1-hidden]
+Керівництво приймає аргументацію щодо вашого рішення розірвати контракт з [%male#1-surname].[%male#1-hidden]
 
 STR-641945
-The board are disappointed that you released [%person#1-surname] from [%person#1-his] contract.
+Керівництво розчароване тим, що ви розірвали контракт з [%female#1-surname].[%female#1-hidden]
+Керівництво розчароване тим, що ви розірвали контракт з [%male#1-surname].[%male#1-hidden]
 
 STR-641946
-The board are disappointed to see [%person#1-surname] leave the team as they thought [%person#1-he] was a good influence on the players around [%person#1-him].
+Керівництво розчароване тим, що [%female#1-surname] залишає команду, оскільки вони вважали, що вона добре впливає на гравців навколо себе.[%female#1-hidden]
+Керівництво розчароване тим, що [%male#1-surname] залишає команду, оскільки вони вважали, що він добре впливає на гравців навколо себе.[%male#1-hidden]
 
 STR-641947
-[%person#2] wasn't far behind [%person#2-his] [%team#1-short] team-mate as [%person#2-he] narrowly beat [%team#3-short]{s} [%person#3] to second place.
+[%female#2] була не набагато позаду свого одноклубника з команди [%team#1-short], оскільки вона ледь випередила представницю команди [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%female#2-hidden]
+[%female#2] була не набагато позаду свого одноклубника з команди [%team#1-short], оскільки вона ледь випередила представника команди [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%female#2-hidden]
+[%male#2] був не набагато позаду свого одноклубника з команди [%team#1-short], оскільки він ледь випередив представницю команди [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%male#2-hidden]
+[%male#2] був не набагато позаду свого одноклубника з команди [%team#1-short], оскільки він ледь випередив представника команди [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%male#2-hidden]
 
 STR-641948
-[%person#2] wasn't far behind [%person#2-his] [%team#1-short] team-mate as [%person#2-he] beat [%team#3-short]{s} [%person#3] to second place.
+[%female#2] була не набагато позаду свого одноклубника з команди [%team#1-short], оскільки вона випередила представницю команди [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%female#2-hidden]
+[%female#2] була не набагато позаду свого одноклубника з команди [%team#1-short], оскільки вона випередила представника команди [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%female#2-hidden]
+[%male#2] був не набагато позаду свого одноклубника з команди [%team#1-short], оскільки він випередив представницю команди [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%male#2-hidden]
+[%male#2] був не набагато позаду свого одноклубника з команди [%team#1-short], оскільки він випередив представника команди [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%male#2-hidden]
 
 STR-641949
-[%person#2] was some way behind [%person#2-his] [%team#1-short] team-mate as [%person#2-he] narrowly beat [%team#3-short]{s} [%person#3] to second place.
+[%female#2] була значно позаду свого одноклубника з команди [%team#1-short], оскільки вона ледь випередила представницю команди [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%female#2-hidden]
+[%female#2] була значно позаду свого одноклубника з команди [%team#1-short], оскільки вона ледь випередила представника команди [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%female#2-hidden]
+[%male#2] був значно позаду свого одноклубника з команди [%team#1-short], оскільки він ледь випередив представницю команди [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%male#2-hidden]
+[%male#2] був значно позаду свого одноклубника з команди [%team#1-short], оскільки він ледь випередив представника команди [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%male#2-hidden]
 
 STR-641950
-[%team#2-short]{s} [%person#2] wasn't far behind, as [%person#2-he] narrowly beat [%person#1-surname]{s} [%team#3-short] team-mate [%person#3] to second place, preventing it from being a [%team#3-nickname_no_the_english_only] top two.
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона ледь випередила одноклубницю [%female#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%female#2-hidden][%female#1-hidden]
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона ледь випередила одноклубника [%female#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%female#2-hidden][%female#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він ледь випередив одноклубницю [%female#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%male#2-hidden][%female#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він ледь випередив одноклубника [%female#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%male#2-hidden][%female#1-hidden]
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона ледь випередила одноклубницю [%male#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%female#2-hidden][%male#1-hidden]
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона ледь випередила одноклубника [%male#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%female#2-hidden][%male#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він ледь випередив одноклубницю [%male#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%male#2-hidden][%male#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він ледь випередив одноклубника [%male#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%male#2-hidden][%male#1-hidden]
 
 STR-641951
-[%team#2-short]{s} [%person#2] wasn't far behind as [%person#2-he] beat [%person#1-surname]{s} [%team#3-short] team-mate [%person#3] to second place.
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона випередила одноклубницю [%female#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%female#2-hidden][%female#1-hidden]
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона випередила одноклубника [%female#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%female#2-hidden][%female#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він випередив одноклубницю [%female#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%male#2-hidden][%female#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він випередив одноклубника [%female#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%male#2-hidden][%female#1-hidden]
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона випередила одноклубницю [%male#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%female#2-hidden][%male#1-hidden]
+Представниця команди [%team#2-short] [%female#2] була не набагато позаду, оскільки вона випередила одноклубника [%male#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%female#2-hidden][%male#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він випередив одноклубницю [%male#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце.[%female#3-hidden][%male#2-hidden][%male#1-hidden]
+Представник команди [%team#2-short] [%male#2] був не набагато позаду, оскільки він випередив одноклубника [%male#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце.[%male#3-hidden][%male#2-hidden][%male#1-hidden]
 
 STR-641952
-[%person#2] was some way behind the winner, as [%person#2-he] narrowly beat [%person#1-surname]{s} [%team#3-short] team-mate [%person#3] to second place, preventing a [%team#3-nickname_no_the_english_only] top two.
+[%female#2] була значно позаду переможця, оскільки вона ледь випередила одноклубницю [%female#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%female#2-hidden][%female#1-hidden]
+[%female#2] була значно позаду переможця, оскільки вона ледь випередила одноклубника [%female#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%female#2-hidden][%female#1-hidden]
+[%male#2] був значно позаду переможця, оскільки він ледь випередив одноклубницю [%female#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%male#2-hidden][%female#1-hidden]
+[%male#2] був значно позаду переможця, оскільки він ледь випередив одноклубника [%female#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%male#2-hidden][%female#1-hidden]
+[%female#2] була значно позаду переможця, оскільки вона ледь випередила одноклубницю [%male#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%female#2-hidden][%male#1-hidden]
+[%female#2] була значно позаду переможця, оскільки вона ледь випередила одноклубника [%male#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%female#2-hidden][%male#1-hidden]
+[%male#2] був значно позаду переможця, оскільки він ледь випередив одноклубницю [%male#1-surname] по команді [%team#3-short] [%female#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%female#3-hidden][%male#2-hidden][%male#1-hidden]
+[%male#2] був значно позаду переможця, оскільки він ледь випередив одноклубника [%male#1-surname] по команді [%team#3-short] [%male#3] у боротьбі за друге місце, завадивши подвійному тріумфу гравців з команди [%team#3-nickname_no_the_english_only].[%male#3-hidden][%male#2-hidden][%male#1-hidden]
